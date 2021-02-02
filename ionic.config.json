@@ -1,0 +1,7 @@
+{
+  "name": "icewater2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
